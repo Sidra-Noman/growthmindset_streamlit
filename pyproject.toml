@@ -6,5 +6,3 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = []
 
-[tool.poetry]
-package-mode = false
